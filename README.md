@@ -1,7 +1,9 @@
+# Restored Wave Spawner
+
 A simple SCP:SL plugin that re-adds buttons to manually trigger respawn waves which were removed in a recent patch.
 
 # Permissions
-Player must have vanilla "RespawnEvents" permission to use the Spawn button.
+Player must have vanilla `RespawnEvents` permission to use the Spawn button. The settings options may appear to unprivledged players, but will not do anything.
 
 # Installation
 Choose either the LabAPI or EXILED build and place it in your respective Plugins directory.
